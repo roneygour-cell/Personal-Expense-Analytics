@@ -1,0 +1,145 @@
+Date,Category,Description,Amount,Payment_Mode,Month
+2024-01-02,Food,Grocery Shopping,850,UPI,January
+2024-01-05,Transport,Auto Rickshaw,120,Cash,January
+2024-01-07,Entertainment,Netflix Subscription,199,Credit Card,January
+2024-01-10,Food,Restaurant Dinner,640,UPI,January
+2024-01-12,Healthcare,Medicine,310,Cash,January
+2024-01-15,Education,Online Course,1499,Credit Card,January
+2024-01-18,Food,Grocery Shopping,920,UPI,January
+2024-01-20,Utilities,Electricity Bill,780,Net Banking,January
+2024-01-22,Transport,Cab Booking,350,UPI,January
+2024-01-25,Food,Cafeteria Lunch,180,Cash,January
+2024-01-28,Entertainment,Movie Tickets,380,UPI,January
+2024-01-30,Personal Care,Haircut,200,Cash,January
+2024-02-01,Food,Grocery Shopping,870,UPI,February
+2024-02-04,Transport,Bus Pass,500,Cash,February
+2024-02-06,Entertainment,Spotify,119,Credit Card,February
+2024-02-08,Food,Restaurant Lunch,520,UPI,February
+2024-02-10,Healthcare,Doctor Visit,600,Cash,February
+2024-02-13,Education,Books,750,UPI,February
+2024-02-15,Food,Grocery Shopping,940,UPI,February
+2024-02-17,Utilities,Internet Bill,699,Net Banking,February
+2024-02-20,Transport,Cab Booking,420,UPI,February
+2024-02-22,Food,Cafeteria Lunch,200,Cash,February
+2024-02-25,Shopping,Clothing,1800,Credit Card,February
+2024-02-27,Personal Care,Skincare Products,650,UPI,February
+2024-03-02,Food,Grocery Shopping,810,UPI,March
+2024-03-05,Transport,Auto Rickshaw,140,Cash,March
+2024-03-07,Entertainment,Netflix Subscription,199,Credit Card,March
+2024-03-09,Food,Restaurant Dinner,720,UPI,March
+2024-03-12,Healthcare,Medicine,250,Cash,March
+2024-03-14,Education,Online Course,999,Credit Card,March
+2024-03-17,Food,Grocery Shopping,880,UPI,March
+2024-03-19,Utilities,Electricity Bill,820,Net Banking,March
+2024-03-21,Transport,Cab Booking,390,UPI,March
+2024-03-23,Food,Cafeteria Lunch,170,Cash,March
+2024-03-26,Entertainment,Cricket Match Tickets,550,UPI,March
+2024-03-28,Shopping,Electronics Accessories,1200,Credit Card,March
+2024-04-01,Food,Grocery Shopping,950,UPI,April
+2024-04-03,Transport,Bus Pass,500,Cash,April
+2024-04-06,Entertainment,Hotstar,299,Credit Card,April
+2024-04-08,Food,Restaurant Lunch,480,UPI,April
+2024-04-10,Healthcare,Gym Membership,1500,Net Banking,April
+2024-04-13,Education,Books,600,UPI,April
+2024-04-15,Food,Grocery Shopping,860,UPI,April
+2024-04-17,Utilities,Internet Bill,699,Net Banking,April
+2024-04-19,Transport,Cab Booking,460,UPI,April
+2024-04-21,Food,Cafeteria Lunch,210,Cash,April
+2024-04-24,Shopping,Home Decor,2200,Credit Card,April
+2024-04-27,Personal Care,Haircut,200,Cash,April
+2024-05-01,Food,Grocery Shopping,900,UPI,May
+2024-05-04,Transport,Auto Rickshaw,130,Cash,May
+2024-05-06,Entertainment,Netflix Subscription,199,Credit Card,May
+2024-05-08,Food,Restaurant Dinner,680,UPI,May
+2024-05-10,Healthcare,Medicine,180,Cash,May
+2024-05-13,Education,Online Workshop,1200,Credit Card,May
+2024-05-15,Food,Grocery Shopping,830,UPI,May
+2024-05-17,Utilities,Electricity Bill,910,Net Banking,May
+2024-05-20,Transport,Cab Booking,340,UPI,May
+2024-05-22,Food,Cafeteria Lunch,190,Cash,May
+2024-05-24,Entertainment,Bowling,450,UPI,May
+2024-05-27,Shopping,Clothing,1600,Credit Card,May
+2024-06-01,Food,Grocery Shopping,980,UPI,June
+2024-06-03,Transport,Bus Pass,500,Cash,June
+2024-06-05,Entertainment,Spotify,119,Credit Card,June
+2024-06-07,Food,Restaurant Lunch,560,UPI,June
+2024-06-09,Healthcare,Doctor Visit,700,Cash,June
+2024-06-12,Education,Books,450,UPI,June
+2024-06-14,Food,Grocery Shopping,870,UPI,June
+2024-06-16,Utilities,Internet Bill,699,Net Banking,June
+2024-06-18,Transport,Cab Booking,510,UPI,June
+2024-06-20,Food,Cafeteria Lunch,220,Cash,June
+2024-06-22,Shopping,Gadget,3500,Credit Card,June
+2024-06-25,Personal Care,Skincare Products,700,UPI,June
+2024-07-01,Food,Grocery Shopping,1020,UPI,July
+2024-07-04,Transport,Auto Rickshaw,160,Cash,July
+2024-07-06,Entertainment,Netflix Subscription,199,Credit Card,July
+2024-07-08,Food,Restaurant Dinner,750,UPI,July
+2024-07-10,Healthcare,Medicine,290,Cash,July
+2024-07-13,Education,Online Course,1799,Credit Card,July
+2024-07-15,Food,Grocery Shopping,900,UPI,July
+2024-07-17,Utilities,Electricity Bill,1100,Net Banking,July
+2024-07-19,Transport,Cab Booking,430,UPI,July
+2024-07-21,Food,Cafeteria Lunch,200,Cash,July
+2024-07-24,Entertainment,Concert Tickets,1200,UPI,July
+2024-07-27,Shopping,Clothing,1400,Credit Card,July
+2024-08-01,Food,Grocery Shopping,960,UPI,August
+2024-08-03,Transport,Bus Pass,500,Cash,August
+2024-08-06,Entertainment,Hotstar,299,Credit Card,August
+2024-08-08,Food,Restaurant Lunch,610,UPI,August
+2024-08-10,Healthcare,Gym Membership,1500,Net Banking,August
+2024-08-13,Education,Books,380,UPI,August
+2024-08-15,Food,Grocery Shopping,910,UPI,August
+2024-08-17,Utilities,Internet Bill,699,Net Banking,August
+2024-08-19,Transport,Cab Booking,370,UPI,August
+2024-08-21,Food,Cafeteria Lunch,180,Cash,August
+2024-08-23,Shopping,Home Essentials,1800,Credit Card,August
+2024-08-26,Personal Care,Haircut,200,Cash,August
+2024-09-01,Food,Grocery Shopping,880,UPI,September
+2024-09-04,Transport,Auto Rickshaw,120,Cash,September
+2024-09-06,Entertainment,Netflix Subscription,199,Credit Card,September
+2024-09-08,Food,Restaurant Dinner,690,UPI,September
+2024-09-10,Healthcare,Medicine,220,Cash,September
+2024-09-13,Education,Online Course,999,Credit Card,September
+2024-09-15,Food,Grocery Shopping,840,UPI,September
+2024-09-17,Utilities,Electricity Bill,760,Net Banking,September
+2024-09-20,Transport,Cab Booking,400,UPI,September
+2024-09-22,Food,Cafeteria Lunch,195,Cash,September
+2024-09-25,Entertainment,Movie Tickets,360,UPI,September
+2024-09-28,Shopping,Clothing,1300,Credit Card,September
+2024-10-01,Food,Grocery Shopping,930,UPI,October
+2024-10-04,Transport,Bus Pass,500,Cash,October
+2024-10-06,Entertainment,Spotify,119,Credit Card,October
+2024-10-08,Food,Restaurant Lunch,540,UPI,October
+2024-10-10,Healthcare,Doctor Visit,650,Cash,October
+2024-10-13,Education,Books,500,UPI,October
+2024-10-15,Food,Grocery Shopping,850,UPI,October
+2024-10-17,Utilities,Internet Bill,699,Net Banking,October
+2024-10-19,Transport,Cab Booking,480,UPI,October
+2024-10-21,Food,Cafeteria Lunch,210,Cash,October
+2024-10-24,Shopping,Festival Shopping,4200,Credit Card,October
+2024-10-27,Personal Care,Skincare Products,600,UPI,October
+2024-11-01,Food,Grocery Shopping,970,UPI,November
+2024-11-04,Transport,Auto Rickshaw,150,Cash,November
+2024-11-06,Entertainment,Netflix Subscription,199,Credit Card,November
+2024-11-08,Food,Restaurant Dinner,720,UPI,November
+2024-11-10,Healthcare,Medicine,260,Cash,November
+2024-11-13,Education,Online Workshop,1500,Credit Card,November
+2024-11-15,Food,Grocery Shopping,890,UPI,November
+2024-11-17,Utilities,Electricity Bill,800,Net Banking,November
+2024-11-19,Transport,Cab Booking,350,UPI,November
+2024-11-21,Food,Cafeteria Lunch,185,Cash,November
+2024-11-24,Entertainment,Board Games,600,UPI,November
+2024-11-27,Shopping,Clothing,1700,Credit Card,November
+2024-12-01,Food,Grocery Shopping,1100,UPI,December
+2024-12-04,Transport,Bus Pass,500,Cash,December
+2024-12-06,Entertainment,Hotstar,299,Credit Card,December
+2024-12-08,Food,Restaurant Dinner,900,UPI,December
+2024-12-10,Healthcare,Medicine,300,Cash,December
+2024-12-13,Education,Books,650,UPI,December
+2024-12-15,Food,Grocery Shopping,1050,UPI,December
+2024-12-17,Utilities,Internet Bill,699,Net Banking,December
+2024-12-19,Transport,Cab Booking,550,UPI,December
+2024-12-22,Food,Cafeteria Lunch,230,Cash,December
+2024-12-25,Shopping,Year-End Gifts,3800,Credit Card,December
+2024-12-28,Entertainment,New Year Party,1500,UPI,December
